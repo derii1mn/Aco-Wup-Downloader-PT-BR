@@ -7,5 +7,8 @@ Eu começei a tradução com os arquivos no meu PC, não no github.
 # Porque você substitui o espanhol ao invés de criar outra lingua no translations.py
 Eu só fui ler aquela parte quando terminei de traduzir
 
+# Onde eu baixo isso ?
+[Aqui](https://api.github.com/repos/derii1mn/Aco-Wup-Downloader-PT-BR/zipball)
+
 # Créditos
 <strong>GeovanniMCh, Alucardio, MagnaDR, Dj_Xtremo, Cearp Cera1kiler, dojafoja e piratesephiroth</strong>
