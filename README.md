@@ -12,3 +12,4 @@ Eu só fui ler aquela parte quando terminei de traduzir
 
 # Créditos
 <strong>GeovanniMCh, Alucardio, MagnaDR, Dj_Xtremo, Cearp Cera1kiler, dojafoja e piratesephiroth</strong>
+<!-- Atualização inútil só pra colocar o nome do commit que esqueci -->
