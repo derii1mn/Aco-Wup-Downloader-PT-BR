@@ -8,4 +8,4 @@ Eu começei a tradução com os arquivos no meu PC, não no github.
 Eu só fui ler aquela parte quando terminei de traduzir
 
 # Créditos
-<strong>GeovanniMCh, Alucardio,MagnaDR and Dj_Xtremo, Cearp Cera1kiler, dojafoja e piratesephiroth</strong>
+<strong>GeovanniMCh, Alucardio, MagnaDR, Dj_Xtremo, Cearp Cera1kiler, dojafoja e piratesephiroth</strong>
