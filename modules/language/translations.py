@@ -398,13 +398,13 @@ spanish = {
         "English",
 
     "Spanish":
-        "Español",
+        "Português Brasil",
 
     "Select your language:":
-        "Seleccionar idioma:",
+        "Selecionar idioma:",
 
     "Select your theme:":
-        "Seleccionar tema:",
+        "Selecionar tema:",
 
     "Thread {} finished downloading {}":
         "Proceso {} finalizou o download de {}",
